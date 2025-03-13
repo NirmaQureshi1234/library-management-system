@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Clean Code",
+        "author": "Robert C. Martin",
+        "year": "2008",
+        "genre": "Software Engineering",
+        "read": true
+    },
+    {
+        "title": "The Pragmatic Programmer",
+        "author": "Andrew Hunt & David Thomas",
+        "year": "1999",
+        "genre": "Software Development",
+        "read": false
+    },
+    {
+        "title": "You Don't Know JS",
+        "author": "Kyle Simpson",
+        "year": "2015",
+        "genre": "JavaScript",
+        "read": true
+    }
+]
